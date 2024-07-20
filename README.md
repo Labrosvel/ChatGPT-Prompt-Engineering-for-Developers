@@ -1,1 +1,1 @@
-[Chatgpt prompt engineering.pdf](https://github.com/user-attachments/files/16321852/Chatgpt.prompt.engineering.pdf)
+ChatGPT-Prompt-Engineering-for-Developers
